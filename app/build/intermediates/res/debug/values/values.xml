@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/kee/AndroidStudioProjects/AhaGinRummy/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="OptionsList">
+        <item>Set your Name</item>
+        <item>Sound</item>
+        <item>AI Level</item>
+        <item>Rush Timer</item>
+        <item>DebugMode</item>
+        <item>Reset Options</item>
+    </string-array>
+    <string-array name="OptionsTips">
+        <item>更改用户名-当前用户名：</item>
+        <item>开启/关闭 音效-当前状态：</item>
+        <item>选择AI难度-当前难度：</item>
+        <item>选择RushMode的出牌时间-当前时间：</item>
+        <item>开启/关闭 测试模式-当前状态：</item>
+        <item>重置选项</item>
+    </string-array>
+    <string-array name="ailevel">
+        <item>Level1</item>
+        <item>Level2</item>
+        <item>Level3</item>
+    </string-array>
+    <string-array name="speedlevel">
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="story1">
+        <item>辗转多次，年轻人终于打听到这间酒馆。</item>
+        <item>正值傍晚，结束了一天劳累的人们，开始慢慢聚集到这里。</item>
+        <item>大厅里灯火通明，丢几个铜币，换上老板娘亲酿的葡萄酒，肆意畅谈。</item>
+        <item>亦或是要来张姓大厨亲自操刀的特色料理，饱餐一顿。</item>
+        <item>而年轻人寻找的「他」，正是这里的常客。</item>
+        <item>%</item>
+        <item>年轻人悄悄推开酒馆的门，不动声色地观察着每一位来客。</item>
+        <item>——健壮的建筑工人们聚在一起聊着。</item>
+        <item>——饥肠辘辘的旅行者正在享用着晚餐。</item>
+        <item>——和旁人大谈生意经的光头商人。</item>
+        <item>然后，在角落里，年轻人发现了自己寻找的目标。</item>
+        <item>自斟自饮的男人。即使是这样的夏天，也依旧裹着长长的白色围巾。</item>
+        <item>毫无疑问，年轻人所寻找的金拉米大师就在这里。</item>
+        <item>#原本就是从热闹的酒馆中发源而来的拉米牌戏。</item>
+        <item>酒徒们常常用金拉米牌的对决，来定下今天要出酒钱的倒霉鬼。</item>
+        <item>然后，这个不仅仅是一个依靠运气的游戏。</item>
+        <item>发出去的牌就好比被给予的命运，</item>
+        <item>作出自己的选择并且成牌，这便是操纵命运的力量。</item>
+        <item>%</item>
+        <item>自斟的男子叫做Leo，五年前曾是金拉米协会的首席，</item>
+        <item>然而听说是因为厌倦了帝都的生活，辞掉了首席的职位。</item>
+        <item>他似乎没有注意到坐在面前的年轻人，</item>
+        <item>也没有注意到他摊出的一副扑克牌。</item>
+        <item>$「听说您曾经是帝国最强的牌师，为什么还要待在这样的乡下地方呢？」</item>
+        <item>年轻人率先发问。</item>
+        <item>Leo「…不过是赌徒的游戏罢了，哪有什么最强。」</item>
+        <item>$「光凭运气是不可能一直胜利到今天的。我一直在寻找最强的牌师，您能和我比上一局吗？」</item>
+        <item>Leo「我已经很久没有玩牌了。今天也没什么…」</item>
+        <item>但是年轻人眼中率直的目光，让Leo想起了什么。</item>
+        <item>曾经追求极致牌技的自己的样子，似乎又浮现在眼前。</item>
+        <item>Leo「…好吧，那就比上一局。」</item>
+    </string-array>
+    <string-array name="story2">
+        <item>当对局的两人抬起头的时候，已然是清晨时分。</item>
+        <item>晨曦的微光从酒馆的窗户透过，照进了屋子里。</item>
+        <item>「好久没有看见过这么激烈的对局了…」</item>
+        <item>晨起的伙计一边整理着桌椅，一边这样赞叹着。</item>
+        <item>%</item>
+        <item>原本只是说好比上一局，结果就这样一直玩牌玩到了早上。</item>
+        <item>双方各有胜负，然而叫做$的年轻人似乎更占了上风。</item>
+        <item>Leo「没想到你的实力竟然如此，加入协会的话必定能做首席了吧。」</item>
+        <item>$「我只是在寻找传说中的金拉米大师而已」</item>
+        <item>Leo「能够看见命运的金拉米大师吗？</item>
+        <item>这不过是个传说罢了，至少我是没遇见过这样的人。」</item>
+        <item>$「……」</item>
+        <item>Leo「不过，如果你想挑战实力更强的人，我可以为你写一封推荐信」</item>
+        <item>是个很有前途的年轻人，协会必定会感到高兴吧。Leo这样想着。</item>
+        <item>#要说到当今拉米牌戏高手云集的地方，必然是帝都的金拉米协会。</item>
+        <item>而目前牌技的巅峰，则必然是现届的协会首席SuperMXC。</item>
+        <item>虽然对于牌势的控制不如往届首席Leo，</item>
+        <item>但是对进攻机会的把握和对防守的判断，则无人能出其右。</item>
+        <item>%</item>
+        <item>$顺着Leo的指引，来到了帝都的金拉米协会。</item>
+        <item>协会的牌馆，许多知名的各路高手正在互相对决。</item>
+        <item>另一边，个头很高的一个伙计正在忙着端茶递水，扫地擦桌。</item>
+        <item>$拉住伙计，小声问道「你知道首席在哪儿吗？我有上届首席的推荐信」</item>
+        <item>伙计「找我干嘛？」</item>
+        <item>$「……」</item>
+        <item>%</item>
+        <item>SuperMXC忙完了手上的活。「最近生意不景气，即使是杂活也得自己来了」</item>
+        <item>$「正是辛苦啊。」</item>
+        <item>SuperMXC取出折扇，「既然是Leo推荐来的人，想必天资聪颖，身手非凡。」</item>
+        <item>「哪里哪里……」</item>
+        <item>「啪」的一声，SuperMXC把折扇一合。「还等什么，这就开始吧！」</item>
+    </string-array>
+    <string-array name="story3">
+        <item>名称不可考的山头。</item>
+        <item>山顶上的茅草屋里。</item>
+        <item>被SuperMXC唤作大师的人，为$泡了一杯浓茶。</item>
+        <item>喝起来带着苦涩的香味。</item>
+        <item>「若是要寻找大师，那么他必定就在这个地方」离开协会的时候，SuperMXC这样和$说道。</item>
+        <item>大师看起来并没有传说中隐士高人那样显眼。</item>
+        <item>反而像是刻意隐藏了自己的身形。</item>
+        <item>若是混迹在人群中，定然无法分辨出来。</item>
+        <item>$「如果能够看透牌运，那么即使是自己的命运，也可以掌控了吧」</item>
+        <item>叫做Shrimpy的大师微微一笑。「谁知到呢」</item>
+        <item>转身，他指了指牌堆上的牌。「第一张是红心K」</item>
+        <item>「当真？」</item>
+        <item>「不假。」</item>
+        <item>翻开牌堆，真的有如Shrimpy所说。</item>
+        <item>「难道真能看透未来？」$思量着。</item>
+        <item>仿佛是看透了$的心思。「来试一试吧」Shrimpy说道。</item>
+    </string-array>
+    <string-array name="story4">
+        <item>大师请$留宿在自己的茅草屋。自己却翩然离去。</item>
+        <item>唯一留给$的，一本古迹斑驳的小册子。</item>
+        <item>「想要参透命运的话，就读一读它吧，你会在它之上找到真正的大师」</item>
+        <item>Shrimpy离开的时候，留下这样的一句话。</item>
+        <item>半夜时分，$从梦里醒来，身边放着那本册子，迟迟没有打开。</item>
+        <item>纵使牌技赢了大师，自己依然参不透未来。</item>
+        <item>然而，能够掌握人生的力量，真的就只在这个小册子之中吗？</item>
+        <item>$点上灯，毅然打开了古册。</item>
+        <item>翻遍全页，皆是空白。</item>
+        <item>只在最后一页的角上写有一字。</item>
+        <item>「皆是空白的人生，由你自己书写。致 $」</item>
+        <item>力量，早已经拿在了手中。</item>
+        <item>$合上书卷，思寻良久，直到天明。</item>
+        <item>（完）</item>
+        <item>【关卡模式已结束，即将返回模式选择界面】</item>
+    </string-array>
+    <string-array name="tutorial1">
+        <item>教学模式：</item>
+        <item>Hello!我是金拉米大师Leo</item>
+        <item>你既然点击了此模式，就应该是一位金拉米新手吧，</item>
+        <item>那么，下面就由我带领你走进金拉米的世界！</item>
+        <item>%</item>
+        <item>我们以七张牌规则为例。</item>
+        <item>%</item>
+        <item>首先，当游戏开始后，你有七张手牌，在每个回合中，AI与你分别抽牌、弃牌，</item>
+        <item>而抽取的牌则是可以从弃牌堆或牌组中选择，</item>
+        <item>也就是说你可以新抓一张牌，或者“吃掉”对手刚刚弃出的牌</item>
+        <item>%</item>
+        <item>其次，你要明白，是个就有输赢，对吧？这游戏咋赢呢？将手中的牌凑成有效牌就可以！</item>
+        <item>有效牌就是同花顺或同牌，即三张或四张相同数值的牌。</item>
+        <item>当你手中凑成一个由七张牌组成的同花顺，或者三张同牌与四张同花顺的组合，或者四张同牌与三张同花顺的组合时，你就可以赢牌了！</item>
+        <item>当你凑成七张有效牌时，把多余的一张要弃出的牌丢到KNOCK区，这样你就可以胜利了。</item>
+        <item>#本次教学到此就可以结束了</item>
+        <item>%</item>
+        <item>你说什么？假如牌打光了还没赢？</item>
+        <item>如果出现这种情况就要进行比大小，比较双方手牌中除了有效牌外的牌的面值和，其中10、J、Q、K为10分，其余牌的分值等同面值大小</item>
+        <item>注意，是总分小的人获得胜利。</item>
+        <item>%</item>
+        <item>玩牌规则差不多就这样，</item>
+        <item>那么，就先和我打一局吧</item>
+    </string-array>
+    <string-array name="tutorial2">
+        <item>胜利了吗？还是失败了？没关系，还有很多机会可以继续~</item>
+        <item>在主菜单中的Help里有更加详细的帮助，包括更加复杂的十张牌规则</item>
+        <item>欢迎来到Gin Rummy世界！</item>
+        <item>【教学模式结束，即将返回模式选择界面】</item>
+    </string-array>
+    <!-- From: file:/Users/kee/AndroidStudioProjects/AhaGinRummy/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="transparent_absolutely">#00000000</color>
+    <color name="transparent_background">#50000000</color>
+    <!-- From: file:/Users/kee/AndroidStudioProjects/AhaGinRummy/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">金拉米</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="confirmtext">您的操作将产生不可挽回的后果\n数据无价，谨慎操作</string>
+    <string name="hello">Hello World, MenuActivity!</string>
+    <string name="pause_title">PAUSE</string>
+    <string name="renametitle">更改你的用户名</string>
+    <!-- From: file:/Users/kee/AndroidStudioProjects/AhaGinRummy/app/src/main/res/values/style.xml -->
+    <eat-comment/>
+    <style name="Dialog_Fullscreen">
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowNoTitle">true</item>
+	</style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@drawable/helpframe</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="genericdialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="nullframedialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@color/transparent_absolutely</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@color/transparent_absolutely</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
